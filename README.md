@@ -4,4 +4,4 @@ Hi there 👋 i'm Will (WillCatonJr)
 - 👯 I’m looking to collaborate on Python & Django projects.
 - 🥂 PCEP - #PythonProgrammer #Entry-Level
 - 📫 How to reach me: @WillCatonJr_ on Instagram 
-- 🎧 Saxophone, Music Production and a growing interest in 📱 Software development.
+
