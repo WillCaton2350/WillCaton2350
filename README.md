@@ -1,4 +1,4 @@
-Hi there 👋 i'm Will (WillCatonJr)
+Hi there 👋 i'm Will
 
 - 🎨 I’m currently working on audio production tools in python
 - 👯 I’m looking to collaborate on PyQt and Django projects
