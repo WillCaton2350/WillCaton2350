@@ -4,5 +4,4 @@ Hi there 👋 i'm Will
 - 👯 I’m looking to collaborate on projects in Tkinter, PyQt5, and Django
 - 🥂 PCEP - Python3
 - 🏛 Comptia ITF+
-- 📫 How to reach me: @WillCaton23_ on Twitter 
 
