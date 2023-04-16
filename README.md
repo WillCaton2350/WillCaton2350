@@ -5,3 +5,4 @@ Hi there 👋 i'm Will
 - 🥂 PCEP 
 - 🏛 Comptia ITF+
 - 🤖 ChatGPT
+- 📈 Usability Analyst
