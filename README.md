@@ -1,6 +1,6 @@
 Hi there 👋 I'm Will
 
-- 👯 I’m looking to collaborate on projects in Selenium.  
+- 👯 I’m looking to collaborate on Selenium projects.  
 - 🎨 I’m currently learning about data pipelines.
 
 [![](https://raw.githubusercontent.com/WillCaton2350/WillCatonJr/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
